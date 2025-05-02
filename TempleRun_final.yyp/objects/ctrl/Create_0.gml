@@ -1,0 +1,12 @@
+counter = 0;
+MOVE_DELAY = 45;
+RED_ALERT_MAX = 20;
+specialLady = 0;
+script_execute(detectBlood,0,0,0,0,0);
+SHOW_SCOT = 30;
+SCOTLAND_YARD_MAX = 180;
+scotTime = 0;
+womenScore = 0;
+pujariScore = 0;
+action_sound(gameBgMusic, 1);
+action_fullscreen(2);

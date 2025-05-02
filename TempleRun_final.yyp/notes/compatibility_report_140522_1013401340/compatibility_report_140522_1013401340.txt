@@ -1,0 +1,34 @@
+Font scoreFont has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\scoreFont\scoreFont.gms1.png
+Missing audiogroup for sound: 'gameBgMusic' - setting to default audio group
+Missing audiogroup for sound: 'xrayGlasses' - setting to default audio group
+Missing audiogroup for sound: 'yellowCaught' - setting to default audio group
+Missing audiogroup for sound: 'redCaught' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_color.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_draw_rectangle.gml'
+Added compatibility script 'action/action_draw_sprite.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_effect.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_font.gml'
+Added compatibility script 'action/action_fullscreen.gml'
+Added compatibility script 'action/action_if_number.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_inherited.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_next_room.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'action/action_set_gravity.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'action/action_sprite_transform.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
